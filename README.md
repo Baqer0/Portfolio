@@ -23,8 +23,8 @@ Below are some of my key projects. Click on each project to learn more.
     </td>
     <td align="center">
       <a href="https://github.com/yourusername/project2">
-        <img src="assets/project2_image.jpg" width="250" height="150" alt="Project 2 Image"/><br/>
-        <b>Project 2 Title</b>
+        <img src="asset/dashboard.png" width="250" height="150" alt="Project 2 Image"/><br/>
+        <b>Data Visualization</b>
       </a>
     </td>
     <td align="center">
