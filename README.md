@@ -1,5 +1,5 @@
 ## About Me
-# Data Analyst & Scientist | Business Strategist | Creative Problem-Solver
+# Data Analyst & Scientist | AI | Business Strategist | Creative Problem-Solver
 
 As a data analyst and scientist with experience across retail, consulting, and startups in the US, Saudi Arabia, and Ireland, I bring a global and diverse approach to data-driven decision-making. I specialize in turning complex datasets into actionable insights that drive business strategy and operational improvements.
 
@@ -17,7 +17,7 @@ Below are some of my key projects. Click on each project to learn more.
   <tr>
     <td align="center">
       <a href="https://github.com/yourusername/project1">
-        <img src="assets/project1_image.jpg" width="250" height="150" alt="Project 1 Image"/><br/>
+        <img src="asset/dashboard.jpg" width="250" height="150" alt="Project 1 Image"/><br/>
         <b>Project 1 Title</b>
       </a>
     </td>
