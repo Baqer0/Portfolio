@@ -10,13 +10,32 @@ I thrive on using data creatively to uncover hidden patterns, enabling organizat
 ---
 
 ### Projects
-Below are some of my key projects. Click on each image or project title for more details.
+## Projects
+Below are some of my key projects. Click on each project to learn more.
 
-| Project Name | Description | Image |
-|--------------|-------------|-------|
-| [Project 1](#) | A brief description of Project 1. | ![Project 1 Image](https://via.placeholder.com/150) |
-| [Project 2](#) | A brief description of Project 2. | ![Project 2 Image](https://via.placeholder.com/150) |
-| [Project 3](#) | A brief description of Project 3. | ![Project 3 Image](https://via.placeholder.com/150) |
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/yourusername/project1">
+        <img src="assets/project1_image.jpg" width="250" height="150" alt="Project 1 Image"/><br/>
+        <b>Project 1 Title</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yourusername/project2">
+        <img src="assets/project2_image.jpg" width="250" height="150" alt="Project 2 Image"/><br/>
+        <b>Project 2 Title</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yourusername/project3">
+        <img src="assets/project3_image.jpg" width="250" height="150" alt="Project 3 Image"/><br/>
+        <b>Project 3 Title</b>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
