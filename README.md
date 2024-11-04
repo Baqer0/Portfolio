@@ -10,7 +10,6 @@ I thrive on using data creatively to uncover hidden patterns, enabling organizat
 ---
 
 ### Projects
-## Projects
 Below are some of my key projects. Click on each project to learn more.
 
 <table>
