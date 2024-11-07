@@ -1,5 +1,10 @@
 ## About Me
-# Data Analyst & Scientist | AI | Business Strategist | Creative Problem-Solver
+<p style="text-align: center;">
+  <img src="path/to/your/profile_image.jpg" alt="Profile Image" width="200" class="profile-img" style="border-radius: 50%; display: block; margin: 0 auto;">
+</p>
+<p class="description" style="text-align: center;">
+  Data Analyst & Scientist | AI | Business Strategist | Creative Problem-Solver
+</p>
 
 As a data analyst and scientist with experience across retail, consulting, and startups in the US, Saudi Arabia, and Ireland, I bring a global and diverse approach to data-driven decision-making. I specialize in turning complex datasets into actionable insights that drive business strategy and operational improvements.
 
