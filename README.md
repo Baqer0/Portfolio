@@ -16,20 +16,20 @@ Below are some of my key projects. Click on each project to learn more.
   <tr>
     <td align="center">
       <a href="https://github.com/yourusername/project1">
-        <img src="asset/dashboard.jpg" width="250" height="150" alt="Project 1 Image"/><br/>
-        <b>Project 1 Title</b>
+        <img src="asset/machine-learning.png" width="250" height="150" alt="Project 1 Image"/><br/>
+        <b>Machine Learning - AI Models</b>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/yourusername/project2">
         <img src="asset/dashboard.png" width="250" height="150" alt="Project 2 Image"/><br/>
-        <b>Data Visualization</b>
+        <b>Data Visualization - Tableau</b>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/yourusername/project3">
-        <img src="assets/project3_image.jpg" width="250" height="150" alt="Project 3 Image"/><br/>
-        <b>Project 3 Title</b>
+        <img src="assets/analytics.png" width="250" height="150" alt="Project 3 Image"/><br/>
+        <b>Data Storage Solution for Data Analytics</b>
       </a>
     </td>
   </tr>
