@@ -1,0 +1,12 @@
+/* Custom CSS to style the profile */
+.profile-img {
+    border-radius: 50%; /* Makes the image oval */
+    display: block;
+    margin: 0 auto; /* Centers the image */
+}
+
+.description {
+    text-align: center; /* Centers the description text */
+    font-size: 1.1em; /* Adjusts font size if needed */
+    margin-top: 20px;
+}
