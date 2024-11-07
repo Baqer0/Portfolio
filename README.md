@@ -22,13 +22,13 @@ Below are some of my key projects. Click on each project to learn more.
     </td>
     <td align="center">
       <a href="https://github.com/yourusername/project2">
-        <img src="asset/dashboard.png" width="250" height="150" alt="Project 2 Image"/><br/>
+        <img src="asset/visualization.png" width="250" height="150" alt="Project 2 Image"/><br/>
         <b>Data Visualization - Tableau</b>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/yourusername/project3">
-        <img src="assets/analytics.png" width="250" height="150" alt="Project 3 Image"/><br/>
+        <img src="asset/analytics.png" width="250" height="150" alt="Project 3 Image"/><br/>
         <b>Data Storage Solution for Data Analytics</b>
       </a>
     </td>
