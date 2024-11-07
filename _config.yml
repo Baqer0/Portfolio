@@ -5,5 +5,7 @@ logo: asset/Baqer.jpeg
 theme: jekyll-theme-minimal
 #theme: jekyll-dinky
 
-description: <center: A data analyst and scientist skilled in data-driven decision-making. </>
+description: <center: A data analyst and scientist skilled in data-driven decision-making.> </>
 show_downloads: true
+include:
+  - styles.css
