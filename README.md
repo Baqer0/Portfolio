@@ -37,6 +37,16 @@ Below are some of my key projects. Click on each project to learn more.
 
 
 ---
+### Skills
+
+**Technical Skills**
+• Data Modelling          • Python and SQL      • Tableau                   • VSCode / Google colab
+• Machine Learning        • Data Storage        • Data Mining and Big Data  • Microsoft Office     
+• Data Mining             • SSMS / SSRS /ELT    • Data Visualization
+
+**Soft Skills**
+• Strong communication    • Time management     • Problem Solving            • Agility
+• Time management         • Collaboration       • Strong Presentation Skills  • Project Management
 
 ### Work Experience
 - **Data Analyst & Scientist**  
