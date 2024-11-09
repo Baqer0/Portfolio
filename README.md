@@ -1,7 +1,4 @@
 ## About Me
-<p style="text-align: center;">
-  <img src="path/to/your/profile_image.jpg" alt="Profile Image" width="200" class="profile-img" style="border-radius: 50%; display: block; margin: 0 auto;">
-</p>
 <p class="description" style="text-align: center;">
   Data Analyst & Scientist | AI | Business Strategist | Creative Problem-Solver
 </p>
