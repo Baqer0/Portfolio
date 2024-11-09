@@ -26,7 +26,7 @@ Below are some of my key projects. Click on each project to learn more.
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Baqer0/Data Visualisation.md">
+      <a href="[https://github.com/Baqer0/Data Visualisation.md](https://github.com/Baqer0/Portfolio/blob/main/Data%20Visualisation.md)">
         <img src="asset/visualization.png" width="250" height="150" alt="Project 2 Image"/><br/>
         <b>Data Visualization - Tableau</b>
       </a>
