@@ -1,4 +1,7 @@
 ## About Me
+<p style="text-align: center;">
+  <img src="path/to/your/profile_image.jpg" alt="Profile Image" width="200" class="profile-img" style="border-radius: 50%; display: block; margin: 0 auto;">
+</p>
 <p class="description" style="text-align: center;">
   Data Analyst & Scientist | AI | Business Strategist | Creative Problem-Solver
 </p>
@@ -17,19 +20,19 @@ Below are some of my key projects. Click on each project to learn more.
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/yourusername/project1">
+      <a href="./Machine_Learning/README.md">
         <img src="asset/machine-learning.png" width="250" height="150" alt="Project 1 Image"/><br/>
         <b>Machine Learning - AI Models</b>
       </a>
     </td>
     <td align="center">
-      <a href="[https://github.com/Baqer0/Data Visualisation.md](https://github.com/Baqer0/Portfolio/blob/main/Data%20Visualisation.md)">
+      <a href="./Data_Visualisation/README.md">
         <img src="asset/visualization.png" width="250" height="150" alt="Project 2 Image"/><br/>
         <b>Data Visualization - Tableau</b>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/yourusername/project3">
+      <a href="./Data_Storage/README.md">
         <img src="asset/analytics.png" width="250" height="150" alt="Project 3 Image"/><br/>
         <b>Data Storage Solution for Data Analytics</b>
       </a>
@@ -64,3 +67,4 @@ Below are some of my key projects. Click on each project to learn more.
   Master of Business Administration
 - **San Diego State University**  
   Computer Engineering
+
