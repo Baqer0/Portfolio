@@ -12,7 +12,7 @@ An overview of data storage and analytics reporting projects:
     </td>
     <td align="center">
       <a href="./SSRS_Report/README.md">
-        <img src="../asset/Business_REports.png" width="250" height="150" alt="SSRS Report"/><br/>
+        <img src="../asset/Business_Reports.png" width="250" height="150" alt="SSRS Report"/><br/>
         <b>SSRS Report</b>
       </a>
     </td>
