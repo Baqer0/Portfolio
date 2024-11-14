@@ -5,21 +5,21 @@ An overview of data storage and analytics reporting projects:
 <table>
   <tr>
     <td align="center">
-      <a href="./Star_Schema/README.md">
+      <a href="./DatabaseSchema/README.md">
         <img src="../asset/DataBase_Schema.png" width="250" height="150" alt="Star Schema"/><br/>
-        <b>Star Schema</b>
+        <b>Database Schema</b>
       </a>
     </td>
     <td align="center">
-      <a href="./SSRS_Report/README.md">
+      <a href="./BusinessReports/README.md">
         <img src="../asset/Business_Reports.png" width="250" height="150" alt="SSRS Report"/><br/>
-        <b>SSRS Report</b>
+        <b>Business Analytics Reports (SSRS)</b>
       </a>
     </td>
     <td align="center">
-      <a href="./Dashboard/README.md">
+      <a href="./BusinessDashboard/README.md">
         <img src="../asset/dashboard.png" width="250" height="150" alt="Dashboard"/><br/>
-        <b>Dashboard</b>
+        <b>Business Analytics Dashboard</b>
       </a>
     </td>
   </tr>
