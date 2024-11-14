@@ -6,13 +6,13 @@ Explore the data visualization projects I have developed:
   <tr>
     <td align="center">
       <a href="./Youtubers_Analysis/README.md">
-        <img src="asset/Youtubers_analysis.png" width="250" height="150" alt="Youtubers Analysis"/><br/>
+        <img src="/asset/Youtubers_analysis.png" width="250" height="150" alt="Youtubers Analysis"/><br/>
         <b>Youtubers Analysis</b>
       </a>
     </td>
     <td align="center">
       <a href="./Diabetes_Health_Dashboard/README.md">
-        <img src="asset/Diabetes_Analysis.png" width="250" height="150" alt="Diabetes Health Dashboard"/><br/>
+        <img src="/asset/Diabetes_Analysis.png" width="250" height="150" alt="Diabetes Health Dashboard"/><br/>
         <b>Diabetes Health Dashboard</b>
       </a>
     </td>
