@@ -17,19 +17,19 @@ Below are some of my key projects. Click on each project to learn more.
 <table>
   <tr>
     <td align="center">
-      <a href="Machine_Learning/README.md">
+      <a href="./Machine_Learning/README.md">
         <img src="asset/machine-learning.png" width="250" height="150" alt="Project 1 Image"/><br/>
         <b>Machine Learning - AI Models</b>
       </a>
     </td>
     <td align="center">
-      <a href="Data_Visualisation/README.md">
+      <a href="./Data_Visualisation/README.md">
         <img src="asset/visualization.png" width="250" height="150" alt="Project 2 Image"/><br/>
         <b>Data Visualization - Tableau</b>
       </a>
     </td>
     <td align="center">
-      <a href="Data_Storage/README.md">
+      <a href="./Data_Storage/README.md">
         <img src="asset/analytics.png" width="250" height="150" alt="Project 3 Image"/><br/>
         <b>Data Storage Solution for Data Analytics</b>
       </a>
