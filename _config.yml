@@ -2,7 +2,7 @@ title: "Baqer Alshakhs"
 logo: asset/Baqer.jpeg
 theme: jekyll-theme-minimal
 description: "A data analyst and scientist skilled in data-driven decision-making."
-show_downloads: true
+#show_downloads: true
 include:
   - styles.css
 
