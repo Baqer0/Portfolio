@@ -18,7 +18,7 @@ An overview of data storage and analytics reporting projects:
     </td>
     <td align="center">
       <a href="./Dashboard/README.md">
-        <img src="../asset/Diabetes_Analysis.png" width="250" height="150" alt="Dashboard"/><br/>
+        <img src="../asset/dashboard.png" width="250" height="150" alt="Dashboard"/><br/>
         <b>Dashboard</b>
       </a>
     </td>
