@@ -10,15 +10,3 @@
     font-size: 1.1em; /* Adjusts font size if needed */
     margin-top: 20px;
 }
- .site-footer {
-  display: none;
-}
-
-.project-details {
-  border-top: 1px solid #ddd;
-  padding: 20px;
-  margin-top: 20px;
-}
-table td {
-  cursor: pointer;
-}
