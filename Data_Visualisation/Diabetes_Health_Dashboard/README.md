@@ -33,6 +33,9 @@ Kaggle Dataset: Diabetes Health Indicators (BRFSS 2015).
 
 # Dashboard:
 
-![Diabetes Health Dashboard](../../asset/Diabetes_Analysis.png)
+<div align="center">
+  <img src="../../asset/Health_Dashboard.png" alt="Diabetes Health Dashboard" width="50%">
+</div>
+
 
 
