@@ -5,7 +5,7 @@ Explore the data visualization projects I have developed:
 <table>
   <tr>
     <td align="center">
-      <a href="./Youtubers_Analysis/index.htm">
+      <a href="./Youtubers_Analysis/index.html">
         <img src="../asset/Youtubers_analysis.png" width="150" height="150" alt="Youtubers Analysis"/><br/>
         <b>Youtubers Analysis</b>
       </a>
