@@ -36,7 +36,7 @@ Task: This project uses the Diabetes Health Indicators (BRFSS 2015) dataset, whi
 **Dashboard:**
 
 <div align="center">
-  <img src="../../asset/Health_Dashboard.png" alt="Diabetes Health Dashboard" width="300" height="300">
+  <img src="../../asset/Health_Dashboard.png" alt="Diabetes Health Dashboard" width="500" height="300">
 </div>
 
 Access to Tableau file and Dataset
