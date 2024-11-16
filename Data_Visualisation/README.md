@@ -12,7 +12,7 @@ Explore the data visualization projects I have developed:
     </td>
     <td align="center">
       <a href="../Diabetes_Health_Dashboard/index.html">
-        <img src="../asset/Diabetes_Analysis.png" width="150" height="150" alt="Diabetes Health Dashboard"/><br/>
+        <img src="./asset/Diabetes_Analysis.png" width="150" height="150" alt="Diabetes Health Dashboard"/><br/>
         <b>Diabetes Health Dashboard</b>
       </a>
     </td>
