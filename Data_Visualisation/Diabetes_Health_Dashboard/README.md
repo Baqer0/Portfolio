@@ -1,5 +1,6 @@
 **Project Overview**
-Task: This project uses the Diabetes Health Indicators (BRFSS 2015) dataset, which contains over 253,000 survey responses about diabetes, medical conditions, and lifestyle factors. The goal is to create an interactive Tableau dashboard that compares people with diabetes, prediabetes, and no diabetes across various health indicators.
+
+This project uses the Diabetes Health Indicators (BRFSS 2015) dataset, which contains over 253,000 survey responses about diabetes, medical conditions, and lifestyle factors. The goal is to create an interactive Tableau dashboard that compares people with diabetes, prediabetes, and no diabetes across various health indicators.
 
 **Key Dataset Variables:**
 - Diabetes_012: Diabetes status (No Diabetes, Prediabetes, Diabetes).
@@ -36,10 +37,10 @@ Task: This project uses the Diabetes Health Indicators (BRFSS 2015) dataset, whi
 **Dashboard:**
 
 <div align="center">
-  <img src="../../asset/Health_Dashboard.png" alt="Diabetes Health Dashboard" width="500" height="300">
+  <img src="../../asset/Health_Dashboard.png" alt="Diabetes Health Dashboard" width="650" height="450">
 </div>
 
-Access to Tableau file and Dataset
+Access to Tableau and Dataset Files: 
 [Folder](https://drive.google.com/drive/folders/1rJLi932eD2gBksJCQdaBhFvT2ezpf92D)  
 
 
