@@ -26,20 +26,23 @@ The task was to select a dataset and conduct a comprehensive analysis using five
 
 
 **Key Features**
-•	Data sourcing, cleaning, and preprocessing
-•	Comprehensive visual analysis and interactive dashboards
+- Data sourcing, cleaning, and preprocessing
+- Comprehensive visual analysis and interactive dashboards
 
 **Technologies Used**
-•	Tableau: For creating interactive dashboards and visuals
-•	Kaggle: For sourcing the Youtubers Channel dataset ([Source](https://www.kaggle.com/datasets/naniruddhan/global-youtube-statistics-data/data)  
+- Tableau: For creating interactive dashboards and visuals
+- Kaggle: For sourcing the Youtubers Channel dataset ([Source](https://www.kaggle.com/datasets/naniruddhan/global-youtube-statistics-data/data))  
 
 **Visuals**
 
 
 <div align="center">
+  <head>
+  <title>HTML Elements Reference</title>
+</head>
   <img src="../../asset/Top 10 Earning Youtubers per Month in Entertainment.png" alt="Top 10 Earning Youtubers per Month/" width="650" height="450">
-  <img src="../../asset/Top 10 YouTubers with the Most Subscriberst.png" alt="Top 10 Youtubers" width="650" height="450">
-  <img src="../../asset/Relationship between..png" alt="Relationship between Top 10 Youtubers and Uplaods/Views/Subscribers" width="650" height="450">
+  <img src="../../asset/Top 10 YouTubers with the Most Subscribers.png" alt="Top 10 Youtubers" width="650" height="450">
+  <img src="../../asset/Relationship between.png" alt="Relationship between Top 10 Youtubers and Uplaods/Views/Subscribers" width="650" height="450">
   <img src="../../asset/Youtube Total Subscribers by Country.png" alt="Youtube Country Analysis" width="650" height="450">
   <img src="../../asset/top 10 Countries with Youtube Channels.png" alt="Top 10 Countries with YouTube Channels" width="650" height="450">
 </div>
