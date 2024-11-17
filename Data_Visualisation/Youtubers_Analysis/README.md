@@ -39,9 +39,13 @@ The task was to select a dataset and conduct a comprehensive analysis using five
 <div align="center">
 <h3 style="text-align: center;">1. Top 10 Channels by Subscribers</h3>
   <img src="../../asset/Top 10 Earning Youtubers per Month in Entertainment.png" alt="Top 10 Earning Youtubers per Month/" width="650" height="450">
+  <h3 style="text-align: center;">2. Top 10 Youtubers with the Most Subscribers</h3>
   <img src="../../asset/Top 10 YouTubers with the Most Subscribers.png" alt="Top 10 Youtubers" width="650" height="450">
+  <h3 style="text-align: center;">1. Relationship between Top 10 Youtubers and Uplaods-Views-Subscribtions</h3>
   <img src="../../asset/Relationship between.png" alt="Relationship between Top 10 Youtubers and Uplaods/Views/Subscribers" width="650" height="450">
+  <h3 style="text-align: center;">4. Youtube Country Analysis</h3>
   <img src="../../asset/Youtube Total Subscribers by Country.png" alt="Youtube Country Analysis" width="650" height="450">
+  <h3 style="text-align: center;">5. Top 10 Countries with YouTube Channels</h3>
   <img src="../../asset/top 10 Countries with Youtube Channels.png" alt="Top 10 Countries with YouTube Channels" width="650" height="450">
 </div>
 
