@@ -35,25 +35,45 @@ Discussion on the potential insights the company could gain, such as performance
 **Conclusion**
 This project highlights the end-to-end development of a data warehouse, from schema design and data integration to reporting and visualization, to enable data-driven decision-making.
 
-<table>
-  <tr>
-    <td align="center">
+<html>
+<head>
+  <style>
+    .icon-container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width: 100%;
+    }
+    .icon-item {
+      text-align: center;
+      flex: 1;
+      margin: 0 10px; /* Adjust margin for spacing between items */
+    }
+  </style>
+</head>
+<body>
+
+  <div class="icon-container">
+    <div class="icon-item">
       <a href="./DatabaseSchema/index.html">
         <img src="../asset/DataBase_Schema.png" width="100" height="100" alt="Star Schema"/><br/>
         <b>Database Schema</b>
       </a>
-    </td>
-    <td align="center">
+    </div>
+    <div class="icon-item">
       <a href="./BusinessReports/index.html">
         <img src="../asset/Business_Reports.png" width="100" height="100" alt="SSRS Report"/><br/>
         <b>Business Analytics Reports (SSRS)</b>
       </a>
-    </td>
-    <td align="center">
+    </div>
+    <div class="icon-item">
       <a href="./BusinessDashboard/index.html">
         <img src="../asset/dashboard.png" width="100" height="100" alt="Dashboard"/><br/>
         <b>Business Analytics Visuals and Dashboard</b>
       </a>
-    </td>
-  </tr>
-</table>
+    </div>
+  </div>
+
+</body>
+</html>
+
