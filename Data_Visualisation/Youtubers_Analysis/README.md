@@ -37,9 +37,7 @@ The task was to select a dataset and conduct a comprehensive analysis using five
 
 
 <div align="center">
-  <head>
-  <title>HTML Elements Reference</title>
-</head>
+<h3 style="text-align: center;">1. Top 10 Channels by Subscribers</h3>
   <img src="../../asset/Top 10 Earning Youtubers per Month in Entertainment.png" alt="Top 10 Earning Youtubers per Month/" width="650" height="450">
   <img src="../../asset/Top 10 YouTubers with the Most Subscribers.png" alt="Top 10 Youtubers" width="650" height="450">
   <img src="../../asset/Relationship between.png" alt="Relationship between Top 10 Youtubers and Uplaods/Views/Subscribers" width="650" height="450">
