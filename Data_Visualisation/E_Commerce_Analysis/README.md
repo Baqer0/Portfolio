@@ -35,5 +35,25 @@ Discussion on the potential insights the company could gain, such as performance
 **Conclusion**
 This project highlights the end-to-end development of a data warehouse, from schema design and data integration to reporting and visualization, to enable data-driven decision-making.
 
-
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="./DatabaseSchema/index.html">
+        <img src="../asset/DataBase_Schema.png" width="250" height="150" alt="Star Schema"/><br/>
+        <b>Database Schema</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./BusinessReports/index.html">
+        <img src="../asset/Business_Reports.png" width="250" height="150" alt="SSRS Report"/><br/>
+        <b>Business Analytics Reports (SSRS)</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./BusinessDashboard/index.html">
+        <img src="../asset/dashboard.png" width="250" height="150" alt="Dashboard"/><br/>
+        <b>Business Analytics Visuals and Dashboard</b>
+      </a>
+    </td>
+  </tr>
+</table>
