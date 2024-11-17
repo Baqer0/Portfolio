@@ -35,6 +35,8 @@ Discussion on the potential insights the company could gain, such as performance
 **Conclusion**
 This project highlights the end-to-end development of a data warehouse, from schema design and data integration to reporting and visualization, to enable data-driven decision-making.
 
+**Explore the Business Intelligence Insight**
+
 <html>
 <head>
   <style>
