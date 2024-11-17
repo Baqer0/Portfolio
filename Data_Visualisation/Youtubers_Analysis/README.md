@@ -35,17 +35,12 @@ The task was to select a dataset and conduct a comprehensive analysis using five
 
 **Visuals**
 
-<title align="center"> Top 10 Earning Youtubers per Month</title>
+
 <div align="center">
-  <title align="center"> Top 10 Earning Youtubers per Month</title>
   <img src="../../asset/Top 10 Earning Youtubers per Month in Entertainment.png" alt="Top 10 Earning Youtubers per Month/" width="650" height="450">
-  <title align="center"> Top 10 Earning Youtubers per Month</title>
   <img src="../../asset/Top 10 YouTubers with the Most Subscriberst.png" alt="Top 10 Youtubers" width="650" height="450">
-  <title align="center"> Top 10 Earning Youtubers per Month</title>
   <img src="../../asset/Relationship between..png" alt="Relationship between Top 10 Youtubers and Uplaods/Views/Subscribers" width="650" height="450">
-  <title align="center"> Top 10 Earning Youtubers per Month</title>
   <img src="../../asset/Youtube Total Subscribers by Country.png" alt="Youtube Country Analysis" width="650" height="450">
-  <title align="center"> Top 10 Earning Youtubers per Month</title>
   <img src="../../asset/top 10 Countries with Youtube Channels.png" alt="Top 10 Countries with YouTube Channels" width="650" height="450">
 </div>
 
