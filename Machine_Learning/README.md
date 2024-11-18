@@ -5,13 +5,13 @@ Explore some of the machine learning projects I have worked on. Click on each pr
 <table>
   <tr>
     <td align="center">
-      <a href="./Poem_Text_Classification/README.md">
+      <a href="./Poem_Text_Classification/README.html">
         <img src="../asset/Poem_Classification.png" width="250" height="150" alt="Poem Text Classification"/><br/>
         <b>Poem Text Classification</b>
       </a>
     </td>
     <td align="center">
-      <a href="./Image_Classification/README.md">
+      <a href="./Image_Classification/README.html">
         <img src="../asset/Image_Classification.png" width="250" height="150" alt="Image Classification"/><br/>
         <b>Image Classification</b>
       </a>
