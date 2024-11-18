@@ -17,7 +17,7 @@ Explore some of the machine learning projects I have worked on. Click on each pr
       </a>
     </td>
     <td align="center">
-      <a href="./IBD_Medical_Report_Classificatio/README.md">
+      <a href="./IBD_Medical_Report_Classificatio/html">
         <img src="../asset/Medical_Report.png" width="250" height="150" alt="IBD Medical Report Classification"/><br/>
         <b>IBD Medical Report Classification</b>
       </a>
