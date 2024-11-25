@@ -35,6 +35,7 @@ This project involves building a machine learning AI model designed for deployme
 - Visual Studio Code
 
 **Accest the Model:**
-- [Model](https://ibd-medicalreport-classifier.onrender.com/)
+- Model Code and Files: [Files](https://github.com/Baqer0/IBD_MedicalReport_Classifier)
+- Deployed Model: [Model](https://ibd-medicalreport-classifier.onrender.com/)
 
 
