@@ -1,17 +1,25 @@
-## About Me
-<p class="description" style="text-align: center;">
-  Data Analyst & Scientist | AI | Business Strategist | Creative Problem-Solver
-</p>
+# Welcome to My Portfolio  
 
-As a data analyst and scientist with experience across retail, consulting, and startups in the US, Saudi Arabia, and Ireland, I bring a global and diverse approach to data-driven decision-making. I specialize in turning complex datasets into actionable insights that drive business strategy and operational improvements.
-
-My expertise spans data analysis, business intelligence, and predictive modeling, with a strong focus on leveraging data to optimize processes and solve challenging problems. I’m skilled in translating raw data into visualizations and reports that inform strategic decisions. I also excel at developing data-driven solutions that enhance efficiency and support growth, whether through building dashboards, identifying trends, or providing deep-dive analysis.
-
-I thrive on using data creatively to uncover hidden patterns, enabling organizations to stay ahead in competitive environments. My work ensures that data serves as a key asset for informed decision-making and strategic success.
+## Table of Contents  
+1. [About Me](#about-me)  
+2. [Projects](#projects)  
+3. [Skills](#skills)  
+4. [Education](#education)  
+5. [Let's Connect](#lets-connect)  
 
 ---
 
-### Projects
+## About Me  
+🎯 **Data Analyst & Scientist** | AI Enthusiast | Business Strategist  
+
+- **Global Experience:** Worked in retail, consulting, and startups across the US, Saudi Arabia, and Ireland.  
+- **Expertise:** Data analysis, business intelligence, predictive modeling, and actionable insights.  
+- **Skills:** Building dashboards, uncovering trends, and optimizing processes.  
+- **Mission:** Turning raw data into strategic assets for growth and efficiency.
+
+---
+
+## Projects  
 Below are some of my key projects. Click on each project to learn more.
 
 <table>
@@ -21,47 +29,58 @@ Below are some of my key projects. Click on each project to learn more.
         <img src="asset/machine-learning.png" width="250" height="150" alt="Project 1 Image"/><br/>
         <b>Machine Learning - AI Models</b>
       </a>
+      <p>Built predictive models to forecast sales and improve customer segmentation.</p>
     </td>
     <td align="center">
       <a href="./Data_Visualisation/index.html">
         <img src="asset/visualization.png" width="250" height="150" alt="Project 2 Image"/><br/>
         <b>Data Visualization - Tableau</b>
       </a>
+      <p>Created interactive dashboards showcasing business performance metrics.</p>
     </td>
     <td align="center">
       <a href="./Data_Storage/index.html">
         <img src="asset/analytics.png" width="250" height="150" alt="Project 3 Image"/><br/>
         <b>Data Storage Solution for Data Analytics</b>
       </a>
+      <p>Designed scalable storage systems to optimize data processing.</p>
     </td>
   </tr>
 </table>
 
+---
+
+## Skills  
+
+#### Technical Skills  
+- **Programming:** Python, SQL, R  
+- **Visualization Tools:** Tableau, Power BI  
+- **Big Data:** Hadoop, Spark  
+- **Machine Learning:** Scikit-learn, TensorFlow  
+
+#### Soft Skills  
+- Communication, Problem Solving, Time Management, Team Collaboration  
 
 ---
-### Skills
 
-**Technical Skills**
-• Data Modelling          • Python and SQL      • Tableau                   • VSCode / Google colab
-• Machine Learning        • Data Storage        • Data Mining and Big Data  • Microsoft Office     
-• Data Mining             • SSMS / SSRS /ELT    • Data Visualization
+## Education  
 
-**Soft Skills**
-• Strong communication    • Time management     • Problem Solving            • Agility
-• Time management         • Collaboration       • Strong Presentation Skills  • Project Management
-
-### Work Experience
-- **Data Analyst & Scientist**  
-  Experience in US, Saudi Arabia, and Ireland, specializing in data analysis and business strategy and development.
-
-- **Consultant**  
-  Advised startups and businesses on data-driven solutions.
-
-### Education
 - **Dublin Business School**  
-  Master of Science in Data Analytics
+  *MSc in Data Analytics – Coursework: Machine Learning, Big Data Analysis*
+
 - **University of San Francisco**  
-  Master of Business Administration
+  *MBA – Focus: Business Strategy and Analytics*
+
 - **San Diego State University**  
-  Computer Engineering
+  *BSc in Computer Engineering*
+
+---
+
+## Let's Connect  
+
+- 📧 Email: [your.email@example.com](baqeralshakhs@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/baqeralshakhs)  
+
+
+---
 
