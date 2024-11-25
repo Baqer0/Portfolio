@@ -9,4 +9,4 @@ This project classifies different types of poems based on their content using NL
 
 **Technologies Used:**
 - Python (Pandas, scikit-learn, NLTK)
-](https://github.com/Baqer0/IBD_MedicalReport_Classifier)
+
