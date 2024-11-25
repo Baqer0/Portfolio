@@ -29,14 +29,14 @@ Below are some of my key projects. Click on each project to learn more.
         <img src="asset/machine-learning.png" width="250" height="150" alt="Project 1 Image"/><br/>
         <b>Machine Learning - AI Models</b>
       </a>
-      <p>Built predictive models to forecast sales and improve customer segmentation.</p>
+      <p>Built AI image and text classification model.</p>
     </td>
     <td align="center">
       <a href="./Data_Visualisation/index.html">
         <img src="asset/visualization.png" width="250" height="150" alt="Project 2 Image"/><br/>
         <b>Data Visualization - Tableau</b>
       </a>
-      <p>Created interactive dashboards showcasing business performance metrics.</p>
+      <p>Created interactive dashboards showcasing business insights.</p>
     </td>
     <td align="center">
       <a href="./Data_Storage/index.html">
@@ -55,11 +55,11 @@ Below are some of my key projects. Click on each project to learn more.
 #### Technical Skills  
 - **Programming:** Python, SQL, R  
 - **Visualization Tools:** Tableau, Power BI  
-- **Big Data:** Hadoop, Spark  
-- **Machine Learning:** Scikit-learn, TensorFlow  
+- **Machine Learning:** Scikit-learn, TensorFlow
+- **Platforms:** Google Colab, Visual Studio Code, Flask, GitHub, SSMS 
 
 #### Soft Skills  
-- Communication, Problem Solving, Time Management, Team Collaboration  
+- Communication, Problem Solving, Time Management, Team Collaboration, Learning Agility, Strong Presentation Skills
 
 ---
 
