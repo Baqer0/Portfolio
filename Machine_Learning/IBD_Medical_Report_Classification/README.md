@@ -34,7 +34,7 @@ This project involves building a machine learning AI model designed for deployme
 - Deployment: for now is depoyed in the GitHub account using Render, but it will be integrated with MyCCAngel for real-time document verification
 - Visual Studio Code
 
-**Accest the Model:**
+**Access Model and Files:**
 - Model Code and Files: [Files](https://github.com/Baqer0/IBD_MedicalReport_Classifier)
 - Deployed Model: [Model](https://ibd-medicalreport-classifier.onrender.com/)
 
