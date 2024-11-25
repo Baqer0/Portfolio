@@ -78,8 +78,8 @@ Below are some of my key projects. Click on each project to learn more.
 
 ## Let's Connect  
 
-- 📧 Email: [your.email@example.com](baqeralshakhs@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/baqeralshakhs)  
+- 📧 Email: [Email](baqeralshakhs@gmail.com)  
+- 💼 LinkedIn: [LinkkedIn](www.linkedin.com/in/baqeralshakhs)  
 
 
 ---
