@@ -56,9 +56,9 @@ Below are some of my key projects. Click on each project to learn more.
 
 ### Technical Skills
 
-- **Programming:** Python, SQL, R  
-- **Visualization Tools:** Tableau, Power BI  
-- **Machine Learning Frameworks:** Scikit-learn, TensorFlow  
+- **Programming:** Python, SQL 
+- **Visualization Tools:** Tableau, Excel 
+- **Machine Learning Frameworks:** Scikit-learn, TensorFlow, Keras 
 - **Platforms:** Google Colab, Visual Studio Code, Flask, GitHub, SSMS
 
 ### Soft Skills
@@ -72,7 +72,7 @@ Below are some of my key projects. Click on each project to learn more.
 
 ### Dublin Business School
 *MSc in Data Analytics*  
-**Key Coursework:** Machine Learning, Big Data Analysis
+**Key Coursework:** Machine Learning, Big Data Analysis, Data 
 
 ### University of San Francisco
 *MBA – Focus: Business Strategy and Analytics*
