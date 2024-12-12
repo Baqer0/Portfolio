@@ -57,19 +57,19 @@ This project highlights the end-to-end development of a data warehouse, from sch
 
   <div class="icon-container">
     <div class="icon-item">
-      <a href="./DatabaseSchema/index.html">
+      <a href="./DatabaseSchema/README.md">
         <img src="../asset/DataBase_Schema.png" width="100" height="100" alt="Star Schema"/><br/>
         <b>Database Schema</b>
       </a>
     </div>
     <div class="icon-item">
-      <a href="./BusinessReports/index.html">
+      <a href="./BusinessReports/README.md">
         <img src="../asset/Business_Reports.png" width="100" height="100" alt="SSRS Report"/><br/>
         <b>Business Analytics Reports (SSRS)</b>
       </a>
     </div>
     <div class="icon-item">
-      <a href="./BusinessDashboard/index.html">
+      <a href="./BusinessDashboard/README.md">
         <img src="../asset/dashboard.png" width="100" height="100" alt="Dashboard"/><br/>
         <b>Business Analytics Visuals and Dashboard</b>
       </a>
